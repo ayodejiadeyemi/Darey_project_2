@@ -1,2 +1,2 @@
-# Darey_project_2
+# Darey_Project_2
 WEB STACK IMPLEMENTATION (LEMP STACK)
